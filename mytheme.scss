@@ -1,0 +1,4 @@
+$mycolor: #ff7300;
+$myfont: font_google("Rowdies");
+.remark-slide-content > h1 { color: $mycolor; font: $myfont; }
+.remark-slide-content strong { color: $mycolor; }
